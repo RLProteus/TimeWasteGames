@@ -6,6 +6,10 @@ A collection of free, online, browser games I enjoy wasting my time playing.
 * [New York Times - Mini Crossword](https://www.nytimes.com/crosswords/game/mini) - Daily mini crossword
 * [Contexto](https://contexto.me/) - Guess the word of the day based on it's relation to the words you enter.
 * [Conexo](https://contexto.me/) - Match 4 groups of 4 words that share a common theme.
+* [Wordle](https://www.nytimes.com/games/wordle/index.html) - Guess the word of the day.
+
+## Movie Related
+* [Framed.wtf](https://framed.wtf/) - Guess the movie from the provided stills.
 
 ## Map Games
 * [travle.earth](https://travle.earth/) - Connect the dots between geographic regions using the least amount of countries/states.
