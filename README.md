@@ -5,6 +5,7 @@ A collection of free, online, browser games I enjoy wasting my time playing.
 ## Word Games
 * [Contexto](https://contexto.me/) - Guess the word of the day based on it's relation to the words you enter.
 * [Conexo](https://conexo.ws/en) - Match 4 groups of 4 words that share a common theme.
+* [Letroso](https://letroso.com/en/daily) - Guess the word of the day. Like Wordle with more complex words. 
 * [New York Times (NYT) - Mini Crossword](https://www.nytimes.com/crosswords/game/mini) - Daily mini crossword
 * [NYT - Wordle](https://www.nytimes.com/games/wordle/index.html) - Guess the word of the day.
 * [NYT - Connections](https://www.nytimes.com/games/connections) - Match 4 groups of 4 words that share a common theme.
