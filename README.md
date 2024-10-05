@@ -19,7 +19,7 @@ A collection of free, online, browser games I enjoy wasting my time playing.
 * [TimeGuessr](https://timeguessr.com/) - Identify when and where the picture was taken.
 
 ## Driving
-* [slow roads](https://timeguessr.com/) - Drive slow or fast around a procedurally generated landscape.
+* [slow roads](https://slowroads.io/) - Drive slow or fast around a procedurally generated landscape.
 
 ## Miscellaneous
 * [Suika](https://suikagame.com/) - Stack fruit in a box and merge like friuts.
