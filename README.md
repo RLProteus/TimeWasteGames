@@ -6,13 +6,15 @@ A collection of free, online, browser games I enjoy wasting my time playing.
 * [Contexto](https://contexto.me/) - Guess the word of the day based on it's relation to the words you enter.
 * [Conexo](https://conexo.ws/en) - Match 4 groups of 4 words that share a common theme.
 * [Letroso](https://letroso.com/en/daily) - Guess the word of the day. Like Wordle with more complex words. 
-* [New York Times (NYT) - Mini Crossword](https://www.nytimes.com/crosswords/game/mini) - Daily mini crossword
 * [NYT - Wordle](https://www.nytimes.com/games/wordle/index.html) - Guess the word of the day.
 * [NYT - Connections](https://www.nytimes.com/games/connections) - Match 4 groups of 4 words that share a common theme.
 * [NYT - Strands](https://www.nytimes.com/games/strands) - Word search with a few twists. Find the theme and get hints for any other words you find.
 
 ## Movie Related
 * [Framed.wtf](https://framed.wtf/) - Guess the movie from the provided stills.
+
+## Gaming Related
+* [Factoriodle](https://www.factoriodle.com/) - Guess the correct item from the game Factorio.
 
 ## Map Games
 * [travle.earth](https://travle.earth/) - Connect the dots between geographic regions using the least amount of countries/states.
