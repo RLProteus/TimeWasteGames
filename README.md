@@ -13,6 +13,8 @@ A collection of free, online, browser games I enjoy wasting my time playing.
 ## Movie Related
 * [Framed.wtf](https://framed.wtf/) - Guess the movie from the provided stills.
 
+* [Plain Game](https://plaingame.fun/) - Name things close to a target number and estimate everyday facts in seven daily rounds.
+
 ## Gaming Related
 * [Factoriodle](https://www.factoriodle.com/) - Guess the correct item from the game Factorio.
 
